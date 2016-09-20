@@ -18,7 +18,7 @@ Alpine based Docker image for [syncthing](https://syncthing.net/).
 docker run \
 	--volume my-data-path:/data
 	-p 8384 \
-	svenwltr/syncthing
+	larstobi/syncthing
 ```
 
 
