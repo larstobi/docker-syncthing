@@ -1,5 +1,5 @@
 FROM alpine:edge
-MAINTAINER Sven Walter <sven@wltr.eu>
+MAINTAINER Lars Tobias Skjong-Børsting <larstobi@relatime.no>
 
 ARG SYNCTHING_VERSION=0.14.6
 
